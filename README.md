@@ -1,4 +1,11 @@
-# Hi 👋, I'm Abhishek Sen  
+<h1 align="center">
+  Hi 👋, I'm Abhishek Sen
+</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&center=true&vCenter=true&width=600&lines=Abhishek+Sen;Trainee+Engineer;Frontend+Developer;Angular+Learner;React+Beginner" />
+</p>
+
 
 ### 👨‍💻 Trainee Engineer | Innovatiq Consulting  
 
