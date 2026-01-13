@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi 👋, I'm Abhishek Sen  
 
-<!--
-**Abhishek-innovatiq/Abhishek-innovatiq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 Trainee Engineer | Innovatiq Consulting  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🙋‍♂️ About Me  
+I'm a **beginner web developer** currently working as a **Trainee Engineer** at Innovatiq Consulting.  
+I'm learning and building small projects using modern web technologies.
+
+---
+
+## 🛠️ Skills I Know  
+
+### Frontend  
+- HTML  
+- CSS  
+- JavaScript  
+- Angular  
+- React  
+
+### Backend  
+- Node.js  
+- Express.js  
+
+### Database  
+- MongoDB  
+
+---
+
+## 🏢 Current Role  
+- Company: **Innovatiq Consulting**  
+- Position: **Trainee Engineer**
+
+---
+
+## 📚 Currently Learning  
+- Angular (Advanced)  
+- API Integration  
+- Backend Basics  
+
+---
+
+## 🌱 Goal  
+To become a strong **Full Stack Developer** by learning and practicing daily.
